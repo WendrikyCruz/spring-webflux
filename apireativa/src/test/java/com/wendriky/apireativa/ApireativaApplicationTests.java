@@ -1,10 +1,10 @@
-package com.wendriky.api.reativa;
+package com.wendriky.apireativa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class ApireativaApplicationTests {
 
 	@Test
 	void contextLoads() {
